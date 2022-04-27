@@ -2,3 +2,4 @@
 
 - 🔭 Tentando migrar para a área de Dev
 - 🌱 Aprendendo HTML, CSS e JavaScript
+- 📚 Participando de Bootcamps
