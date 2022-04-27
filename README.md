@@ -1,5 +1,5 @@
 ### Olá! Me chamo Taís 😸
 
-- 🔭 Tentando migrar para a área de Dev
+- 🥇 Iniciante 
 - 🌱 Aprendendo HTML, CSS e JavaScript
 - 📚 Participando de Bootcamps
